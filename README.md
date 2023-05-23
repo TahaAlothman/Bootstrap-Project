@@ -1,4 +1,4 @@
-## Bootstrap Project
+# Bootstrap Project
 Landing Page using Bootstrap
 
 ## project Screenshot
